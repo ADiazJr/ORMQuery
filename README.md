@@ -1,1 +1,1 @@
-# ORMQuery
+# DjangoQueryingLab_PY_Starter
